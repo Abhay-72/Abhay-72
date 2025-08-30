@@ -78,6 +78,6 @@ Here are some ideas to get you started:
 
 ### 🤝 Connect
 - Email: <a href="mailto:abhaypatel5089@gmail.com">abhaypatel5089@gmail.com</a>
-- Portfolio/Links: REPLACE_ME (optional)
+<!-- - Portfolio/Links: REPLACE_ME (optional) -->
 
 <!-- Tip: Avoid putting your phone number in a public README to prevent spam. -->
